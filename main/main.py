@@ -1,7 +1,7 @@
 import os
 import threading
 import hashlib
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 from pathlib import Path
 from send2trash import send2trash
 
